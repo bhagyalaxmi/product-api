@@ -8,9 +8,9 @@ output application/json
 ---
 {
   productID: 235658,
-  productName: "Bhagyalaxmi",
+  productName: "Bhagyalaxmi Nagendra Babu",
   productProvider: "Cloud Odyssey",
-  productDescription: " Chant Hare krishna Hare krishna Hare Ram Hare ram everyday"
+  productDescription: "Hare krishna Hare krishna Hare Ram Hare ram"
 }]]></ee:set-payload>
             </ee:message>
         </ee:transform>
