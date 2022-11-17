@@ -10,7 +10,7 @@ output application/json
   productID: 235658,
   productName: "Bhagyalaxmi",
   productProvider: "Cloud Odyssey",
-  productDescription: "Hare krishna Hare krishna Hare Ram Hare ram"
+  productDescription: " Chant Hare krishna Hare krishna Hare Ram Hare ram everyday"
 }]]></ee:set-payload>
             </ee:message>
         </ee:transform>
