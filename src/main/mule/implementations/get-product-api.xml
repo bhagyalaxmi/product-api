@@ -9,7 +9,7 @@ output application/json
 {
   productID: 235658,
   productName: "Bhagyalaxmi Nagendra Babu",
-  productProvider: "Cloud Odyssey",
+  productProvider: "Cloud Odyssey Private Limited",
   productDescription: "Hare krishna Hare krishna Hare Ram Hare ram"
 }]]></ee:set-payload>
             </ee:message>
